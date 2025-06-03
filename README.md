@@ -1,4 +1,3 @@
-readme_content = """
 # 📞 TELECOM CUSTOMER CHURN PREDICTION
 
 ## 🏆 OVERVIEW
